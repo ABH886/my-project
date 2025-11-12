@@ -36,6 +36,8 @@ nav li {
 }
 nav a {
     color: #fdfbfb;
+    text-shadow: 2px 2px 4px #000;
+    font-size: large;
     text-decoration: none;
 }
 nav ul li:hover {
